@@ -87,6 +87,15 @@ main div {
     color: #ffffff;
 }
 
+main div img {
+    max-height: 200px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -111,15 +120,6 @@ main div {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-main div img {
-    max-height: 200px;
-}
-
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .footer {
