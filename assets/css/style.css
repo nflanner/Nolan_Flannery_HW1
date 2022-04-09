@@ -18,10 +18,9 @@ header {
 h1 {
     display: inline-block;
     font-size: 48px;
-    color: #d9dcd6;
 }
 
-nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -100,14 +99,9 @@ h3 {
     font-size: 20px;
 }
 
-.float-left {
+.float {
     float: left;
     margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
 }
 
 .benefit {
@@ -126,4 +120,13 @@ h3 {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+}
+
+#right {
+    float: right;
+    margin-left: 25px;
+}
+
+#seo {
+    color: #d9dcd6;
 }
