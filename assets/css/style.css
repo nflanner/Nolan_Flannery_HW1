@@ -73,6 +73,11 @@ aside {
     background-color: #2589bd;
 }
 
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -91,11 +96,6 @@ aside {
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 .benefit img {
